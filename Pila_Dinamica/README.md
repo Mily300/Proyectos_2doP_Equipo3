@@ -1,1 +1,0 @@
-Pila de manera dinamica
