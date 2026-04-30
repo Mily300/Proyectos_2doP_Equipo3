@@ -1,1 +1,0 @@
-Cola Estatica por arreglo
